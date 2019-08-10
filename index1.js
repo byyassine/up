@@ -10,7 +10,7 @@ var width = '100%';
 
 if(typeof(height)=="undefined"){
 
-var height = '100%';
+var height = '110%';
 
 }
 
